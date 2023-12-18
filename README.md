@@ -55,6 +55,5 @@ Implementing an OAuth2 Server using Node.js, Express.js, and MySQL as the databa
 - **Official Github:** [GitHub](https://github.com/oauthjs/express-oauth-server)
 - **Explanation About Oauth2:** [GitHub](https://github.com/your-username/oauth2-server-node-express-mysql/issues)
 - **Other Example Not Using MySQL:** [GitHub](https://github.com/node-oauth/express-oauth-server)
-- **Contribution Guidelines:** [Contribution Guidelines](CONTRIBUTING.md)
 - **License:** [MIT License](LICENSE.md)
 
